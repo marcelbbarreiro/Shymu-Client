@@ -13,7 +13,7 @@ body {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    background: linear-gradient(to bottom,#707070 0%,#181818 100%),transparent;
+    background: linear-gradient(to bottom,#181818 0%,#3a3939 100%),transparent;
     background-repeat: no-repeat;
     background-position: top;
     padding: 0 20px;

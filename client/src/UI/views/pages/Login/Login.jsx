@@ -84,7 +84,7 @@ function App() {
           </div>
           {renderErrorMessage("userpass")}
           <div className='links'>
-            <Link to="/register">SignUp</Link>
+            <Link href="./Register.jsx">SignUp</Link>
 
           </div>
           <input type='submit' value='Login' />
